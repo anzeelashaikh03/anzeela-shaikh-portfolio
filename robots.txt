@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://anzeelashaikh03.github.io/Anzeela-Portfolio/sitemap.xml
