@@ -3,7 +3,7 @@
   --bg:#ffffff;
   --bg-soft:#faf7ff;
   --text:#111111;
-  --muted:#55515f;
+  --muted:#5a5665;
   --purple:#4B1F6F;
   --purple-2:#6B2FB8;
   --line:rgba(75,31,111,.10);
@@ -77,6 +77,7 @@ img{max-width:100%;display:block}
 }
 .hero{
   padding:44px 0 28px;
+  position:relative;
 }
 .hero-grid{
   display:grid;
