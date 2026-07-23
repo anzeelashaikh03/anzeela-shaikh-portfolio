@@ -1,0 +1,1 @@
+const menuButton=document.querySelector('.menu');const mobileNav=document.querySelector('.mobile-nav');if(menuButton&&mobileNav){menuButton.addEventListener('click',()=>{const open=menuButton.getAttribute('aria-expanded')==='true';menuButton.setAttribute('aria-expanded',String(!open));menuButton.textContent=open?'Menu':'Close';mobileNav.hidden=open})}
